@@ -28,6 +28,16 @@ public class TestCar02 {
 		car1.color			=	"Black";
 		car1.year			=	2023;
 		car1.info();
+		Car		car2		=	new		Car();
+		car2.name			=	"엄마차";
+		car2.color			=	"Red";
+		car2.year			=	2026;
+		car2.info();
+		Car		car3		=	new		Car();
+		car3.name			=	"내차";
+		car3.color			=	"Pink";
+		car3.year			=	2026;
+		car3.info();
 
 	} // main end
 
